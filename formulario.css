@@ -91,5 +91,5 @@ fieldset.grupo .campo {
 }
 
 #experiencia{
-    display:block;
+    resize: none;
 }
